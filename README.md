@@ -26,8 +26,9 @@ This notebook is an extract of a project that was elaborated in collaboration wi
 
 ## Key findings
 
-- Interestingly, there is a strong positive correlation between the number of female borrowers and loan amount, as the correlation plot suggests.
-- Term in months is the feature with the most predictive power for determining the interval payment in Latin America. 
+- There is a strong positive correlation between the number of female borrowers and loan amount, as the correlation plot suggests.
+- Term in months is the feature with the most predictive power for determining the interval payment in Latin America.
 - Loans granted for agriculture and livestock activities is also an important feature with high predictive power. As depicted in the correlation matrix, there is a strong positive correlation between financed agriculture activies and male borrowers.
 - Histogram Gradient Boosting Classifier (with a learning rate of 0.1) proved to be the model with the highest score; followed by Xgboost and Random Forest.
 - The Multidimensional Poverty Index of a country is the fourth feature with the most information gain.
+
