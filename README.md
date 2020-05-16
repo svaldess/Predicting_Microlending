@@ -1,5 +1,5 @@
 # Machine Learning: microlending analysis in Latin America
-## the case of Kiva Crowdfunding
+## The case of Kiva Crowdfunding
 
 The aim of the project is to gain insight into how Kiva.org, an online crowdfunding platform that extends financial services 
 to poor people, determines the repayment interval (monthly, bullet or irregular) of each loan granted in Latin America. The
